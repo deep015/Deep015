@@ -14,7 +14,7 @@
 ## 🔧 Tech Stack
 **Frontend**: React.js, Next.js, Redis , Redux , Zest, GSAP, Tailwind CSS, Typescript  
 **Backend**: Node.js, Express.js ,Docker, AWS  
-**Database**: MongoDB ,SQL, Neon.tech ,
+**Database**: MongoDB ,SQL, Neon.tech
 **Others**: Socket.IO, JWT, Clerk, Drizzle ORM, Gemini API ,Git
 
 - 🔭 I’m currently working on a **Personal WebServices Platofrom** Where the client reachout and grow their bussiness digitally alsoo, and exploring **AI-powered web applications**.
