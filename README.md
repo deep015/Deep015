@@ -1,8 +1,6 @@
 ## Hi there Deepraj 👋
 
 
-**deep015/Deep015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 🚀 A passionate Full-Stack Developer | MERN | Next.js | Tailwind | Gemini AI | Gen AI
 
