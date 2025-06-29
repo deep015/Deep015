@@ -34,7 +34,6 @@
 ## 📫 Connect with Me
 [Portfolio Website](https://personal-portfolio-c377.vercel.app) | [LinkedIn](#) | [Gmail](mailto:omraj767956@gmail.com)
 
-
 ⚡ Fun fact: I talk to my code. Sometimes it answers back (with errors).
 
 
